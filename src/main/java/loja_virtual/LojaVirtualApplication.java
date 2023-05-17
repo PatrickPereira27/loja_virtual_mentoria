@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LojaVirtualApplication {
 
 	public static void main(String[] args) {
+		System.out.println("teste");
 		SpringApplication.run(LojaVirtualApplication.class, args);
 	}
 
